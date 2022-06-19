@@ -1,6 +1,6 @@
 Privacy Policy
 
-Built the Snip app as a Free app. This service is provided by at no cost and is intended for use as is.
+Built the Vue app as a Free app. This service is provided by at no cost and is intended for use as is.
 
 Contact Us
 
